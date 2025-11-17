@@ -1,0 +1,17 @@
+Title,Fit Statistics,Model Types
+Comparative Analysis of Remote Sensing and Geo-Statistical Techniques to Quantify Forest Biomass,"{'R²': ['0.67', '0.46']}","['linear regression', 'kriging', 'regression']"
+"Estimation of Forest Aboveground Biomass of Two Major Conifers in Ibaraki Prefecture, Japan, from PALSAR-2 and Sentinel-2 Data","{'R²': ['0.31', '0.37', '0.99'], 'RMSE': ['98.63'], 'MAE': ['76.97']}","['random forest', 'regression']"
+"Improved k-NN Mapping of Forest Attributes in Northern Canada Using Spaceborne L-Band SAR, Multispectral and LiDAR Data","{'R²': ['0.58', '0.74']}",['k-nn']
+Evaluation of machine learning methods and multi-source remote sensing data combinations to construct forest above-ground biomass models,"{'R²': ['0.99', '0.97', '0.97', '0.99', '0.99', '0.97'], 'RMSE': ['65.52', '29.14', '81.12', '59.52', '101.46', '37.59']}","['gradient boosting', 'decision tree', 'machine learning', 'random forest', 'regression']"
+"Forest biomass and volume estimation using airborne LiDAR in a cool-temperate forest of northern Hokkaido, Japan","{'RMSE': ['55.04', '19.10', '62.66', '27.05', '51.07', '19.00']}","['linear regression', 'regression']"
+"Estimating Forest Biomass Dynamics by Integrating Multi-Temporal Landsat Satellite Images with Ground and Airborne LiDAR Data in the Coal Valley Mine, Alberta, Canada",{'RMSE': ['58.01']},['allometric']
+Regional aboveground forest biomass using airborne and spaceborne LiDAR in Quebec,"{'R²': ['0.65', '0.59']}",['allometric']
+"A Forest Attribute Mapping Framework: A Pilot Study in a Northern Boreal Forest, Northwest Territories, Canada","{'RMSE': ['5', '9']}",['k-nn']
+Investigating the agreement between global canopy height maps and airborne Lidar derived height estimates over Canada,"{'RMSE': ['3.9', '3.2']}",[]
+"Integration of tree-ring data, Landsat time series, and ALS-derived topographic variables to quantify growth declines in black spruce",{'R²': ['0.70']},['regression']
+Estimating Crown Biomass in a Multilayered Fir Forest Using Airborne LiDAR Data,"{'R²': ['0.89', '0.93', '0.85']}","['allometric', 'machine learning', 'random forest', 'regression']"
+Developing nondestructive species-specific tree allometry with terrestrial laser scanning,{'R²': ['0.87']},['allometric']
+High spatial resolution three-dimensional mapping of vegetation spectral dynamics using computer vision,{'R²': ['0.87']},[]
+Estimating the Aboveground Carbon Density of Coniferous Forests by Combining Airborne LiDAR and Allometry Models at Plot Level,{'R²': ['0.5910']},[]
+Estimating Biophysical Parameters of Individual Trees in an Urban Environment Using Small Footprint Discrete-Return Imaging Lidar,"{'R²': ['0.89', '0.82', '0.90', '0.67', '0.68', '0.63', '0.45', '0.67']}","['linear regression', 'regression']"
+The use of waveform lidar to measure northern temperate mixed conifer and deciduous forest structure in New Hampshire,"{'RMSE': ['58.0', '64.4']}","['allometric', 'regression']"

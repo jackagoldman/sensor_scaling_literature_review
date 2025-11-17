@@ -1,0 +1,52 @@
+Title,Statistic,Value
+Comparative Analysis of Remote Sensing and Geo-Statistical Techniques to Quantify Forest Biomass,R²,0.67
+Comparative Analysis of Remote Sensing and Geo-Statistical Techniques to Quantify Forest Biomass,R²,0.46
+"Estimation of Forest Aboveground Biomass of Two Major Conifers in Ibaraki Prefecture, Japan, from PALSAR-2 and Sentinel-2 Data",R²,0.31
+"Estimation of Forest Aboveground Biomass of Two Major Conifers in Ibaraki Prefecture, Japan, from PALSAR-2 and Sentinel-2 Data",R²,0.37
+"Estimation of Forest Aboveground Biomass of Two Major Conifers in Ibaraki Prefecture, Japan, from PALSAR-2 and Sentinel-2 Data",R²,0.99
+"Estimation of Forest Aboveground Biomass of Two Major Conifers in Ibaraki Prefecture, Japan, from PALSAR-2 and Sentinel-2 Data",RMSE,98.63
+"Estimation of Forest Aboveground Biomass of Two Major Conifers in Ibaraki Prefecture, Japan, from PALSAR-2 and Sentinel-2 Data",MAE,76.97
+"Improved k-NN Mapping of Forest Attributes in Northern Canada Using Spaceborne L-Band SAR, Multispectral and LiDAR Data",R²,0.58
+"Improved k-NN Mapping of Forest Attributes in Northern Canada Using Spaceborne L-Band SAR, Multispectral and LiDAR Data",R²,0.74
+Evaluation of machine learning methods and multi-source remote sensing data combinations to construct forest above-ground biomass models,R²,0.99
+Evaluation of machine learning methods and multi-source remote sensing data combinations to construct forest above-ground biomass models,R²,0.97
+Evaluation of machine learning methods and multi-source remote sensing data combinations to construct forest above-ground biomass models,R²,0.97
+Evaluation of machine learning methods and multi-source remote sensing data combinations to construct forest above-ground biomass models,R²,0.99
+Evaluation of machine learning methods and multi-source remote sensing data combinations to construct forest above-ground biomass models,R²,0.99
+Evaluation of machine learning methods and multi-source remote sensing data combinations to construct forest above-ground biomass models,R²,0.97
+Evaluation of machine learning methods and multi-source remote sensing data combinations to construct forest above-ground biomass models,RMSE,65.52
+Evaluation of machine learning methods and multi-source remote sensing data combinations to construct forest above-ground biomass models,RMSE,29.14
+Evaluation of machine learning methods and multi-source remote sensing data combinations to construct forest above-ground biomass models,RMSE,81.12
+Evaluation of machine learning methods and multi-source remote sensing data combinations to construct forest above-ground biomass models,RMSE,59.52
+Evaluation of machine learning methods and multi-source remote sensing data combinations to construct forest above-ground biomass models,RMSE,101.46
+Evaluation of machine learning methods and multi-source remote sensing data combinations to construct forest above-ground biomass models,RMSE,37.59
+"Forest biomass and volume estimation using airborne LiDAR in a cool-temperate forest of northern Hokkaido, Japan",RMSE,55.04
+"Forest biomass and volume estimation using airborne LiDAR in a cool-temperate forest of northern Hokkaido, Japan",RMSE,19.10
+"Forest biomass and volume estimation using airborne LiDAR in a cool-temperate forest of northern Hokkaido, Japan",RMSE,62.66
+"Forest biomass and volume estimation using airborne LiDAR in a cool-temperate forest of northern Hokkaido, Japan",RMSE,27.05
+"Forest biomass and volume estimation using airborne LiDAR in a cool-temperate forest of northern Hokkaido, Japan",RMSE,51.07
+"Forest biomass and volume estimation using airborne LiDAR in a cool-temperate forest of northern Hokkaido, Japan",RMSE,19.00
+"Estimating Forest Biomass Dynamics by Integrating Multi-Temporal Landsat Satellite Images with Ground and Airborne LiDAR Data in the Coal Valley Mine, Alberta, Canada",RMSE,58.01
+Regional aboveground forest biomass using airborne and spaceborne LiDAR in Quebec,R²,0.65
+Regional aboveground forest biomass using airborne and spaceborne LiDAR in Quebec,R²,0.59
+"A Forest Attribute Mapping Framework: A Pilot Study in a Northern Boreal Forest, Northwest Territories, Canada",RMSE,5
+"A Forest Attribute Mapping Framework: A Pilot Study in a Northern Boreal Forest, Northwest Territories, Canada",RMSE,9
+Investigating the agreement between global canopy height maps and airborne Lidar derived height estimates over Canada,RMSE,3.9
+Investigating the agreement between global canopy height maps and airborne Lidar derived height estimates over Canada,RMSE,3.2
+"Integration of tree-ring data, Landsat time series, and ALS-derived topographic variables to quantify growth declines in black spruce",R²,0.70
+Estimating Crown Biomass in a Multilayered Fir Forest Using Airborne LiDAR Data,R²,0.89
+Estimating Crown Biomass in a Multilayered Fir Forest Using Airborne LiDAR Data,R²,0.93
+Estimating Crown Biomass in a Multilayered Fir Forest Using Airborne LiDAR Data,R²,0.85
+Developing nondestructive species-specific tree allometry with terrestrial laser scanning,R²,0.87
+High spatial resolution three-dimensional mapping of vegetation spectral dynamics using computer vision,R²,0.87
+Estimating the Aboveground Carbon Density of Coniferous Forests by Combining Airborne LiDAR and Allometry Models at Plot Level,R²,0.5910
+Estimating Biophysical Parameters of Individual Trees in an Urban Environment Using Small Footprint Discrete-Return Imaging Lidar,R²,0.89
+Estimating Biophysical Parameters of Individual Trees in an Urban Environment Using Small Footprint Discrete-Return Imaging Lidar,R²,0.82
+Estimating Biophysical Parameters of Individual Trees in an Urban Environment Using Small Footprint Discrete-Return Imaging Lidar,R²,0.90
+Estimating Biophysical Parameters of Individual Trees in an Urban Environment Using Small Footprint Discrete-Return Imaging Lidar,R²,0.67
+Estimating Biophysical Parameters of Individual Trees in an Urban Environment Using Small Footprint Discrete-Return Imaging Lidar,R²,0.68
+Estimating Biophysical Parameters of Individual Trees in an Urban Environment Using Small Footprint Discrete-Return Imaging Lidar,R²,0.63
+Estimating Biophysical Parameters of Individual Trees in an Urban Environment Using Small Footprint Discrete-Return Imaging Lidar,R²,0.45
+Estimating Biophysical Parameters of Individual Trees in an Urban Environment Using Small Footprint Discrete-Return Imaging Lidar,R²,0.67
+The use of waveform lidar to measure northern temperate mixed conifer and deciduous forest structure in New Hampshire,RMSE,58.0
+The use of waveform lidar to measure northern temperate mixed conifer and deciduous forest structure in New Hampshire,RMSE,64.4

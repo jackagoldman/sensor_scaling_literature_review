@@ -1,0 +1,46 @@
+Articles mentioning 'boreal', 'temperate', or 'coniferous' in the abstract (excluding those with 'tropical'):
+1. Improved estimation of aboveground biomass of regional coniferous forests integrating UAV-LiDAR strip data, Sentinel-1 and Sentinel-2 imageries
+2. Geostatistical estimation of forest biomass in interior Alaska combining Landsat-derived tree cover, sampled airborne lidar and field observations
+3. Comparative Analysis of Remote Sensing and Geo-Statistical Techniques to Quantify Forest Biomass
+4. Estimation of Forest Aboveground Biomass of Two Major Conifers in Ibaraki Prefecture, Japan, from PALSAR-2 and Sentinel-2 Data
+5. Improved k-NN Mapping of Forest Attributes in Northern Canada Using Spaceborne L-Band SAR, Multispectral and LiDAR Data
+6. Improved Object-Based Estimation of Forest Aboveground Biomass by Integrating LiDAR Data from GEDI and ICESat-2 with Multi-Sensor Images in a Heterogeneous Mountainous Region
+7. Evaluation of machine learning methods and multi-source remote sensing data combinations to construct forest above-ground biomass models
+8. Mapping the spatial pattern of temperate forest above ground biomass by integrating airborne LiDAR with Radarsat-2 imagery via geostatistical models
+9. The uncertainty of biomass estimates from LiDAR and SAR across a boreal forest structure gradient
+10. Estimating aboveground biomass and forest canopy cover with simulated ICESat-2 data
+11. Remote sensing of boreal forest biophysical and inventory parameters: a review
+12. Forest biomass and volume estimation using airborne LiDAR in a cool-temperate forest of northern Hokkaido, Japan
+13. Spatially Continuous Mapping of Forest Canopy Height in Canada by Combining GEDI and ICESat-2 with PALSAR and Sentinel
+14. TomoSense: A unique 3D dataset over temperate forest combining multi-frequency mono- and bi-static tomographic SAR with terrestrial, UAV and airborne lidar, and in-situ forest census
+15. Quantifying Boreal Forest Structure and Composition Using UAV Structure from Motion
+16. Supervised Segmentation of Ultra-High-Density Drone Lidar for Large-Area Mapping of Individual Trees
+17. Stratified aboveground forest biomass estimation by remote sensing data
+18. Modelling forest canopy height by integrating airborne LiDAR samples with satellite Radar and multispectral imagery
+19. Estimating Forest Biomass Dynamics by Integrating Multi-Temporal Landsat Satellite Images with Ground and Airborne LiDAR Data in the Coal Valley Mine, Alberta, Canada
+20. Mapping vegetation height and identifying the northern forest limit across Canada using ICESat-2, Landsat time series and topographic data
+21. Regional aboveground forest biomass using airborne and spaceborne LiDAR in Quebec
+22. Monitoring Spatiotemporal Variation of Individual Tree Biomass Using Multitemporal LiDAR Data
+23. Large-area mapping of Canadian boreal forest cover, height, biomass and other structural attributes using Landsat composites and lidar plots
+24. Lidar-based estimates of aboveground biomass in the continental US and Mexico using ground, airborne, and satellite observations
+25. Determining maximum entropy in 3D remote sensing height distributions and using it to improve aboveground biomass modelling via stratification
+26. Predicting forest height using the GOST, Landsat 7 ETM+, and airborne LiDAR for sloping terrains in the Greater Khingan Mountains of China
+27. Patterns of canopy and surface layer consumption in a boreal forest fire from repeat airborne lidar
+28. Geostatistical modeling using LiDAR-derived prior knowledge with SPOT-6 data to estimate temperate forest canopy cover and above-ground biomass via stratified random sampling
+29. A Forest Attribute Mapping Framework: A Pilot Study in a Northern Boreal Forest, Northwest Territories, Canada
+30. A spatially comprehensive canopy cover dataset derived from NASA's ice, cloud and land elevation satellite-2 (ICESat-2) for the state of Alabama, USA
+31. Investigating the agreement between global canopy height maps and airborne Lidar derived height estimates over Canada
+32. Integration of tree-ring data, Landsat time series, and ALS-derived topographic variables to quantify growth declines in black spruce
+33. Estimating Crown Biomass in a Multilayered Fir Forest Using Airborne LiDAR Data
+34. Review on the Possibilities of Mapping Old-Growth Temperate Forests by Remote Sensing in Europe
+35. How to integrate remotely sensed data and biodiversity for ecosystem assessments at landscape scale
+36. Peatland leaf-area index and biomass estimation with ultra-high resolution remote sensing
+37. Developing nondestructive species-specific tree allometry with terrestrial laser scanning
+38. High spatial resolution three-dimensional mapping of vegetation spectral dynamics using computer vision
+39. Machine Learning Techniques for Tree Species Classification Using Co-Registered LiDAR and Hyperspectral Data
+40. Estimating the Aboveground Carbon Density of Coniferous Forests by Combining Airborne LiDAR and Allometry Models at Plot Level
+41. Estimating Biophysical Parameters of Individual Trees in an Urban Environment Using Small Footprint Discrete-Return Imaging Lidar
+42. The use of waveform lidar to measure northern temperate mixed conifer and deciduous forest structure in New Hampshire
+43. Model-assisted estimation of change in forest biomass over an 11 year period in a sample survey supported by airborne LiDAR: A case study with post-stratification to provide "activity data"
+
+Total articles: 43

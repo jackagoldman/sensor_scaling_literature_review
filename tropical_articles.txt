@@ -1,0 +1,32 @@
+Articles with 'tropical' in the abstract:
+1. Aboveground biomass estimation using multi-sensor data synergy and machine learning algorithms in a dense tropical forest
+2. Remote sensing for aboveground biomass monitoring in terrestrial ecosystems: A systematic review
+3. Remote Sensing for Restoration Change Monitoring in Tropical Peat Swamp Forests in Malaysia
+4. Allometry-based estimation of forest aboveground biomass combining LiDAR canopy height attributes and optical spectral indexes
+5. Multi-Decision Vector Fusion Model for Enhanced Mapping of Aboveground Biomass in Subtropical Forests Integrating Sentinel-1, Sentinel-2, and Airborne LiDAR Data
+6. Linking Terrestrial LiDAR Scanner and Conventional Forest Structure Measurements with Multi-Modal Satellite Data
+7. Modelling aboveground biomass of a multistage managed forest through synergistic use of Landsat-OLI, ALOS-2 L-band SAR and GEDI metrics
+8. Forest biomass retrieval approaches from earth observation in different biomes
+9. Predicting LiDAR-derived biomass distributions by Weibull models in a subtropical forest
+10. Biomass estimation in dense tropical forest using multiple information from single-baseline P-band PolInSAR data
+11. Terrestrial Laser Scanning for Vegetation Analyses with a Special Focus on Savannas
+12. Evaluation of NASA's GEDI Lidar Observations for Estimating Biomass in Temperate and Tropical Forests
+13. Estimating Time Since the Last Stand-Replacing Disturbance (TSD) from Spaceborne Simulated GEDI Data: A Feasibility Study
+14. Sub-hectare resolution forest biomass mapping from Copernicus DEM with low-dimensional models
+15. Prediction of stem volume in complex temperate forest stands using TanDEM-X SAR data
+16. Potential of Multi-Temporal ALOS-2 PALSAR-2 ScanSAR Data for Vegetation Height Estimation in Tropical Forests of Mexico
+17. Limitations of high resolution satellite stereo imagery for estimating canopy Check for height in Australian tropical savannas
+18. Estimation of tropical forest structural characteristics using large-footprint lidar
+19. Estimation of Tree Height by Combining Low Density Airborne LiDAR Data and Images Using the 3D Tree Model: A Case Study in a Subtropical Forest in China
+20. Structure metrics to generalize biomass estimation from lidar across forest types from different continents
+21. TanDEM-X elevation model data for canopy height and aboveground biomass retrieval in a tropical peat swamp forest
+22. Comparison of Canopy Cover and Leaf Area Index Estimation from Airborne LiDAR and Digital Aerial Photogrammetry in Tropical Forests
+23. High-resolution sub-canopy topography mapping via TanDEM-X DEM combined with future P-band BIOMASS PolInSAR data
+24. Hierarchical integration of individual tree and area-based approaches for savanna biomass uncertainty estimation from airborne LiDAR
+25. 3D Segmentation of Trees Through a Flexible Multiclass Graph Cut Algorithm
+26. Estimating urban above ground biomass with multi-scale LiDAR
+27. Mapping large-scale pantropical forest canopy height by integrating GEDI lidar and TanDEM-X InSAR data
+28. Sensitivity of L-band vegetation optical depth to carbon stocks in tropical forests: a comparison to higher frequencies and optical indices
+29. Enhancing GEDI above ground biomass density estimates in contrasting forests of Pakistan
+
+Total articles found: 29
